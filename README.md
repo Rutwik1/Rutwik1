@@ -1,5 +1,18 @@
 # 💫 About Me:
-Skilled at Front-end Development. Ability to create innovative, creative & interactive web designs. Sound knowledge in HTML5, CSS, JavaScript, Bootstrap, React.js, MySql, MongoDB, Node.js, Express.js, Git, and Github. Looking to start a career as an entry-level Full Stack Developer or Front-end Developer with a reputed firm.
+With over 2+ years of experience Building and Maintaining responsive websites in the IT industry, I possess a deep passion for technology and a strong drive to tackle complex challenges while prioritizing user experience and design. Skilled in Performance Optimization, and best Coding Practices, I am eager to learn and leverage new technologies to deliver superior solutions. I thrive in collaborative environments and excel both as a Team player and a leader, ensuring top-quality results within deadlines.
+
+✨ Proficient in: AGILE Methodology, Software Development Life Cycle (SDLC), Version Control Systems (Git), Defect Tracking Tools (Jira), Design Platforms (Figma), and Testing Frameworks (Jest).
+
+✨ Web Languages: React, TypeScript, Node.js, JavaScript, Next JS
+✨ Web Technologies: HTML5, CSS3, SASS
+✨ UI Frameworks: Bootstrap 4, Material UI
+✨ Databases: SQL, MongoDB
+✨ Testing Tools: Jest
+✨ Core CS Concepts: DSA, System Design
+✨ DevOps & Other Tools: CI/CD, AWS, Docker, Kubernetes
+✨ CMS: WordPress, WooCommerce
+
+Let’s connect if you want to develop or create something extraordinary. ❤️
 
 
 ## 🌐 Socials:
